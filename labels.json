@@ -1,0 +1,27 @@
+[
+  {
+    "name": "team/back-end",
+    "color": "c5def5",
+    "description": "Back-end related"
+  },
+  {
+    "name": "team/front-end",
+    "color": "d4c5f9",
+    "description": "Front-end related"
+  },
+  {
+    "name": "team/ux",
+    "color": "c5e10e",
+    "description": "User experience related"
+  },
+  {
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "name": "documentation",
+    "color": "0075ca",
+    "description": "Improvements or additions to documentation"
+  }
+]
